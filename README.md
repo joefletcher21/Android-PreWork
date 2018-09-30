@@ -3,7 +3,7 @@ Android app development pre-work project
 
 ### App Walk-though
 `
-<img src="https://imgur.com/a/2pRa2Ff" width=200><br>
+<img src="http://g.recordit.co/78ZFHIBlKh.gif" width=200><br>
 
 
 ### Required User Stories
